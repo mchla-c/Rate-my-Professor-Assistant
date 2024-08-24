@@ -1,0 +1,156 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Great professor with clear explanations. Highly recommended!"
+      },
+      {
+        "professor": "Dr. John Williams",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Very knowledgeable and always willing to help. Class was tough but fair."
+      },
+      {
+        "professor": "Prof. Emily Johnson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Engaging lectures and practical examples. Made the subject fun."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "The professor was difficult to understand at times, but overall a good experience."
+      },
+      {
+        "professor": "Dr. Laura Davis",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Amazing teaching style. Makes complex concepts easy to grasp."
+      },
+      {
+        "professor": "Prof. Robert Martinez",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Good professor but expects a lot from students. Be prepared to work hard."
+      },
+      {
+        "professor": "Dr. Jessica Lee",
+        "subject": "Statistics",
+        "stars": 5,
+        "review": "Great at simplifying tough concepts. Homework was challenging but manageable."
+      },
+      {
+        "professor": "Prof. William Clark",
+        "subject": "History",
+        "stars": 3,
+        "review": "Very strict grading policy, but fair. Lectures were a bit dry."
+      },
+      {
+        "professor": "Dr. Amanda Lewis",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Loved this professor! So passionate about the subject."
+      },
+      {
+        "professor": "Prof. Daniel Walker",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Helpful but often late to respond to emails. Lectures were clear."
+      },
+      {
+        "professor": "Dr. Kevin Hall",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Excellent professor, but the exams were very difficult. Would take again."
+      },
+      {
+        "professor": "Prof. Megan Green",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Good professor, but the class felt a bit rushed. Office hours were very helpful."
+      },
+      {
+        "professor": "Dr. Jason Turner",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Very organized and clear lectures. Tests aligned well with the material."
+      },
+      {
+        "professor": "Prof. Patricia Baker",
+        "subject": "Geography",
+        "stars": 3,
+        "review": "A bit hard to follow during lectures. Assignments were very useful though."
+      },
+      {
+        "professor": "Dr. Charles Scott",
+        "subject": "Art",
+        "stars": 5,
+        "review": "Incredible professor! Inspiring and very supportive of students."
+      },
+      {
+        "professor": "Prof. Rebecca Harris",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Very detail-oriented. Sometimes too fast-paced, but good overall."
+      },
+      {
+        "professor": "Dr. James Wright",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Wonderful lectures. The class was challenging, but I learned a lot."
+      },
+      {
+        "professor": "Prof. Anna Rivera",
+        "subject": "Business",
+        "stars": 4,
+        "review": "Clear and concise teaching style. Could use more engaging examples."
+      },
+      {
+        "professor": "Dr. Christopher Young",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Hard grader, but fair. The professor really cares about students' success."
+      },
+      {
+        "professor": "Prof. Katherine Adams",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Enthusiastic about the subject, but assignments were a bit unclear."
+      },
+      {
+        "professor": "Dr. Thomas Cooper",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Unorganized lectures and unclear expectations. Wouldn't recommend."
+      },
+      {
+        "professor": "Prof. Linda Brooks",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Poor communication skills. Exams were overly difficult with little guidance."
+      },
+      {
+        "professor": "Dr. Richard Evans",
+        "subject": "History",
+        "stars": 1,
+        "review": "Monotonous lectures. Difficult to stay engaged. Would not take again."
+      },
+      {
+        "professor": "Prof. Alice Morgan",
+        "subject": "Physics",
+        "stars": 2,
+        "review": "Rarely available for help. The material was unclear and exams were unfair."
+      },
+      {
+        "professor": "Dr. Samuel Collins",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Extremely tough grader. Lectures were confusing and not well-structured."
+      }
+    ]
+    
+    
+  }
